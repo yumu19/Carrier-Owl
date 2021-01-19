@@ -3,9 +3,12 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        ubiquitous: 1
+        human computer interaction: 1
+        activity recognition: 1
+        sensor: 1
+        hci: 1
+        cyber physical system: 1
 
 # 通知の閾値
 score_threshold: 0
